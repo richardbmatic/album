@@ -82,11 +82,74 @@
                 </div>
             </div>
         </div>
-        <div class="grid-continer gallery">
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item">`</div>
+        <div class="row gallery">
+            <div class="container">
+                <div class="col-md-6">
+                    <div class="gallery-item-big">
+                        <a href="#">
+                            <img 
+                                src="/images/gallery/gallery-item-big1.jpg" 
+                                alt="Camera"
+                                class="w-100"
+                            >
+                        </a>
+                    </div>
+                    <div class="gallery-item-small">
+                        <div class="w-50 float-left">
+                            <a href="#">
+                                <img 
+                                    src="/images/gallery/gallery-item-small1.jpg" 
+                                    alt="Camera"
+                                    class="w-100"
+                                >
+                            </a>
+                        </div>
+                        <div class="w-50 float-left">
+                            <a href="#">
+                                <img 
+                                    src="/images/gallery/gallery-item-small2.jpg" 
+                                    alt="Camera"
+                                    class="w-100"
+                                >
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                <div class="gallery-item-small">
+                        <div class="w-50 float-left">
+                            <a href="#">
+                                <img 
+                                    src="/images/gallery/gallery-item-small4.jpg" 
+                                    alt="Camera"
+                                    class="w-100"
+                                >
+                            </a>
+                        </div>
+                        <div class="w-50 float-left">
+                            <a href="#">
+                                <img 
+                                    src="/images/gallery/gallery-item-small3.jpg" 
+                                    alt="Camera"
+                                    class="w-100"
+                                >
+                            </a>
+                        </div>
+                    </div>
+                    <div class="gallery-item-big">
+                        <a href="#">
+                            <img 
+                                src="/images/gallery/gallery-item-big2.jpg" 
+                                alt="Camera"
+                                class="w-100"
+                            >
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row footer">
+
         </div>
     </body>
 </html>

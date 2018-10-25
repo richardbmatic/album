@@ -10534,3 +10534,12 @@ a.text-dark:focus {
   float: left;
 }
 
+.gallery {
+  background-color: #4C6E90;
+}
+
+.footer {
+  background-color: #000000;
+  height: 60px;
+}
+
