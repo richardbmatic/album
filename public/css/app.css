@@ -10477,9 +10477,12 @@ a.text-dark:focus {
 .banner .banner-nav {
   background-color: rgba(0, 0, 0, 0.5);
   bottom: 0;
-  height: 70.4px;
   position: absolute;
   width: 100%;
+}
+
+.banner .banner-nav .container {
+  margin: 20px auto;
 }
 
 .absolute-bottom {
