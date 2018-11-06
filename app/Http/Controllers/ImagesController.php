@@ -13,6 +13,7 @@ class ImagesController extends Controller
      */
     public function index()
     {
+        die('asd');
         // Get data image
         $query = Image::query();
                 $query->where('image_active', 1);

@@ -82,7 +82,7 @@
                 </div>
             </div>
         </div>
-        <div class="row gallery">
+        <div class="gallery">
             <div class="container">
                 <div class="col-md-6">
                     <div class="gallery-item-big">
@@ -148,7 +148,7 @@
                 </div>
             </div>
         </div>
-        <div class="row footer">
+        <div class="footer">
 
         </div>
     </body>
